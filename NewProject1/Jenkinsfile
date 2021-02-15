@@ -1,5 +1,6 @@
 node {
       stage('Code Check'){
           echo "Test Node"
+          echo "Test Node 01"
      }
 } 
